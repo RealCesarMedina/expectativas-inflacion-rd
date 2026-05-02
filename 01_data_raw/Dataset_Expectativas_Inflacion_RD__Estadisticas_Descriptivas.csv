@@ -1,0 +1,16 @@
+Estadísticas descriptivas de las series,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,,,,,,,
+Variable,N,Media,Mediana,Desv. Est.,Mínimo,Máximo,Fuente
+Inflación interanual (%),183,4.39273224043716,3.91,2.45895518985464,0.04,9.64,BCRD - Informes Mensuales del IPC
+Mediana EEM Exp. 12m (%) [CALIBRADA],183,4.29459016393443,4.01,1.53664674217349,1.6,7.46,Calibración (reemplazar con EEM oficial)
+TPM (%),183,5.4344262295082,5.25,1.38543862763985,3,8.5,BCRD - Comunicados de Política Monetaria
+DOP/USD,183,48.0169398907104,47.45,7.42649603322669,36.05,60.8,BCRD - Mercado Cambiario
+Var. TC interanual (%),171,3.52345029239766,3.33,3.38961551205641,-5.89,13.84,BCRD - cálculo propio
+PIB real interanual (%),183,5.00273224043716,5,5.40312721510758,-29.8,47.1,BCRD - IMAE / Cuentas Nacionales
+,,,,,,,
+,,,,,,,
+Por subperíodo,,,,,,,
+Pre-pandemia (oct 2009 - feb 2020),Media,Desv.,Mín,Máx,,,
+Inflación,3.772,2.2166514269021,0.04,9.01,,,
+Post-pandemia (mar 2020 - dic 2024),Media,Desv.,Mín,Máx,,,
+Inflación,5.73051724137931,2.43948543784379,1.75,9.64,,,

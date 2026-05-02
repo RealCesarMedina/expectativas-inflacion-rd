@@ -1,0 +1,29 @@
+Dataset macroeconómico - Análisis de expectativas de inflación República Dominicana,Unnamed: 1
+,
+Periodo de cobertura:,Octubre 2009 – Diciembre 2024 (183 observaciones mensuales)
+Frecuencia:,Mensual
+Autor del dataset:,Compilado por C.E. Medina Tineo
+Fecha de compilación:,Abril 2026
+,
+▶ FUENTES,
+,
+Inflación interanual:,BCRD - Informes Mensuales del IPC. Verificada con calculador IPC oficial. URL: https://bancentral.gov.do/a/ipc-consulta
+TPM:,BCRD - Comunicados de Política Monetaria mensuales. URL: https://www.bancentral.gov.do/a/d/2575
+Tipo de cambio DOP/USD:,"BCRD - Mercado Cambiario, tasa promedio de venta. URL: https://www.bancentral.gov.do/SectorExterno/HistoricoTasas"
+PIB real interanual:,BCRD - IMAE (Indicador Mensual de Actividad Económica) y Cuentas Nacionales trimestrales.
+Mediana EEM (12m):,"*** SERIE CALIBRADA *** El Banco Central no publica un Excel histórico de la EEM en URL pública directa. La columna aquí usa la calibración: E[π] = 0.35·meta + 0.65·MA6(π) + ε, siguiendo Jiménez-López (2014). REEMPLAZAR con datos oficiales antes del análisis final."
+,
+▶ ESTRUCTURA DEL ARCHIVO,
+Hoja 'README':,Esta hoja - documentación de fuentes y notas metodológicas
+Hoja 'Datos_Mensuales':,Series principales tal como vienen de las fuentes
+Hoja 'Variables_Construidas':,"Errores de pronóstico, rezagos, dummies, e indicadores derivados"
+Hoja 'Estadisticas_Descriptivas':,Resumen estadístico de las series
+,
+▶ CONVENCIONES,
+Inflación:,% interanual al cierre del mes (variación 12 meses del IPC)
+Expectativa 12m:,Mediana del consenso de analistas para inflación a 12 meses adelante
+Error de pronóstico:,π_t - E[π_t | t-12] (realizado menos esperado hace 12 meses)
+Revisión:,E[π_t | t] - E[π_t | t-1] (cambio mes a mes en la expectativa)
+,
+▶ ADVERTENCIA IMPORTANTE,
+"Este archivo se construyó con datos publicados en informes oficiales del BCRD. Antes de presentar resultados académicos, verificar las cifras contra el calculador IPC oficial y la serie histórica de la EEM. Pueden existir revisiones posteriores no incorporadas. La columna de la EEM es CALIBRADA, no oficial, y debe ser sustituida con los datos reales de la encuesta antes de cualquier publicación o presentación académica.",

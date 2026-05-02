@@ -1,0 +1,28 @@
+Unnamed: 0,Banco Central de la República Dominicana,Unnamed: 2,Unnamed: 3
+,Departamento de Programación Monetaria y Estudios Económicos,,
+,Aspectos metodológicos de la Encuesta de Expectativas Macroeconómicas,,
+,,,
+,Objetivo,"La Encuesta de Expectativas Macroeconómicas (EEM) recopila información sobre las expectativas de analistas económicos acerca de la evolución de importantes variables macroeconómicas: inflación, tipo de cambio, tasa de política monetaria y tasa de crecimiento del Producto Interno Bruto.",
+,Colaboradores,"Investigadores y/o académicos, analistas de consultoras, bancos, asociaciones mutualistas, puestos de bolsa, grupos y gremios empresariales; y representantes de organismos internacionales",
+,Muestra,Determinística,
+,Modalidad de levantamiento,Electrónico,
+,Periodicidad,Mensual,
+,Inicio y duración,La encuesta inicia luego de publicado el dato de inflación. Los encuestados tienen 4 días para contestar y 1 día de prórroga,
+,,,
+,Definición de variables,,
+,Variable,Horizonte,Descripción
+,Inflación,Fin de año,Expectativa de inflación acumulada en el año actual
+,,En 12 meses,Expectativa de inflación interanual en 12 meses
+,,Año siguiente,Expectativa de inflación acumulada en el año siguiente
+,,En 24 meses,Expectativa de inflación interanual en 24 meses
+,Depreciación implícita del tipo de cambio,Fin de año,Variación interanual del tipo de cambio de venta a fin de año
+,,En 12 meses,Variación interanual del tipo de cambio de venta en 12 meses
+,,Año siguiente,Variación interanual del tipo de cambio de venta al cierre del año siguiente
+,,En 24 meses,Variación interanual del tipo de cambio de venta en 24 meses
+,Crecimiento del PIB real,Trimestre actual,Expectativa de la variación interanual del PIB real del trimestre actual
+,,Año actual,Expectativa de crecimiento del PIB real en el año
+,,Año siguiente,Expectativa de crecimiento del PIB real en el año siguiente
+,Tasa de política Monetaria (TPM),Mes actual,Expectativas de TPM al cierre del mes actual
+,,Fin de año,Expectativa de TPM al cierre del año actual
+,,En 12 meses,Expectativa de TPM en 12 meses
+,,En 24 meses,Expectativa de TPM en 24 meses

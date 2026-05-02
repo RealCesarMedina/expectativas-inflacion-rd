@@ -1,0 +1,36 @@
+# Office temporary lock files
+~$*
+.~lock.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Third-party PDFs (not redistributable — see README)
+01_data_raw/BCRD_IPM_diciembre_2025.pdf
+01_data_raw/Jimenez_Lopez_2014_BCRD.pdf
+
+# Build artefacts
+*.log
